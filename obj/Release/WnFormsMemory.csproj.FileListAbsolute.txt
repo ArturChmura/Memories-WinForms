@@ -1,0 +1,11 @@
+C:\Users\Artur\source\repos\WnFormsMemory\bin\Release\WnFormsMemory.exe.config
+C:\Users\Artur\source\repos\WnFormsMemory\bin\Release\WnFormsMemory.exe
+C:\Users\Artur\source\repos\WnFormsMemory\bin\Release\WnFormsMemory.pdb
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.csprojAssemblyReference.cache
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.CardManager.resources
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.Form1.resources
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.StatusBar.resources
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.csproj.GenerateResource.cache
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.exe
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.pdb
+C:\Users\Artur\source\repos\WnFormsMemory\obj\Release\WnFormsMemory.Resource1.resources
