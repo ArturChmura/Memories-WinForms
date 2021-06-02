@@ -59,7 +59,7 @@ namespace WnFormsMemory
         }
         private void loadStartImages()
         {
-            DirectoryInfo directory = new DirectoryInfo("basicImages");
+            DirectoryInfo directory = new DirectoryInfo("Resources");
             FileInfo[] fileInfo = directory.GetFiles();
             foreach (FileInfo item in fileInfo)
             {
